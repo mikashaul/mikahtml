@@ -1,0 +1,53 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  img center-left:
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  img center-left:
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);img: center-right;
+  
+}
+
+body {
+	display: grid;
+  grid-template-rows: 1fr 50px;
+  background: linear-gradient(to bottom, #ffafbd ,#ffc3a0);
+
+  justify-content: center;
+  align-items: center;;
+  <body style="text-align:center; margin:0 auto;">
+
+
+}
+	
+	.red {
+		color: rad;
+		
+	}
+	.bigFont{
+		font-size: 32px;
+		text-align: center;
+		
+	}		
+		
+	#specialStyle {
+		width:30%;
+		border: 2x solid red;
+		<body style="text-align:center; margin:0 auto;">
+
+
+		
+
+	}		
+	
+	
